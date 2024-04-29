@@ -1,0 +1,16 @@
+table {
+    text-align: center;
+}
+
+thead {
+    font-weight:bold;
+    color: red;
+}
+tr {
+    font-weight:bold;
+}
+td {
+    font-weight:bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}

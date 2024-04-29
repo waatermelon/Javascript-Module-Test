@@ -1,0 +1,14 @@
+{
+  "name": "javascript-module-test",
+  "version": "1.0.0",
+  "description": "Testing imports and exports",
+  "scripts": {
+    "fblogin": "firebase login",
+    "fbinit": "firebase init",
+    "fbdeploy": "firebase deploy",
+    "fbemulate": "firebase emulators:start"
+  },
+  "dependencies": {
+    "firebase-tools": "^13.7.5"
+  }
+}
